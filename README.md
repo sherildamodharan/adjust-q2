@@ -28,7 +28,7 @@ open sessions | to view open sessions per sec |
 closed sessions | to view closed sessions per sec |
 new connections | to view the new connections per sec | 
 
-# challenges:
+# challenges & workaround: 
 - The number of service monitoring need to be minimalised as the proxy servers can bottleneck due to the excessive monitoring asweel at peak times.
 - apart from the traffic monitoring, other service monitoring can be initiated with a longer duration understanding the criticality of the server.
-- 
+
